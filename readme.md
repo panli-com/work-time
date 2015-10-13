@@ -1,5 +1,24 @@
 ## 一个工作提交日志
 
+### 2015年10月13日10:22:29
+
+双11 这两部分的提示文字于 10月20日0点自动上线，10月27日23:59:59自动下线。
+
+红色画圈为新增部分
+
+http://www.panli.com/mypanli/OrderCart.aspx
+
+![](./images/20151013/2015-10-13_102706.png)
+
+
+http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
+![](./images/20151013/2015-10-13_102725.png)
+
+提交签入
+>http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
+>http://www.panli.com/mypanli/OrderCart.aspx
+
+
 ### 2015年10月9日13:11:02
 
 定时10月10日10:00—10月15日0:00，有弹出蒙版宣传页。活动期间用户每天打开首页，只弹1次。
