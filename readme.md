@@ -21,6 +21,8 @@ http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
 #### 需要后台修改
 >红包金额(图中XX.XX元) = 实际支付 的，不含报关费 的 国际运费的5%
 
+![](./images/20151013/2015-10-13_103602.png)
+
 ```
 <%-- 双11 这两部分的提示文字于 10月20日0点自动上线，10月27日23:59:59自动下线。--%>
  <%if ((DateTime.Now > new DateTime(2015, 10, 20, 0, 0, 0) && DateTime.Now < new DateTime(2015, 10, 27, 23, 59, 59)))
