@@ -18,6 +18,18 @@ http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
 >http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
 >http://www.panli.com/mypanli/OrderCart.aspx
 
+#### 需要后台修改
+>红包金额(图中XX.XX元) = 实际支付 的，不含报关费 的 国际运费的5%
+
+```
+<%-- 双11 这两部分的提示文字于 10月20日0点自动上线，10月27日23:59:59自动下线。--%>
+ <%if ((DateTime.Now > new DateTime(2015, 10, 20, 0, 0, 0) && DateTime.Now < new DateTime(2015, 10, 27, 23, 59, 59)))
+{ %>
+<p class="two11 red">
+     恭喜您获得XX.XX元双11红包！想获得更多红包？<a href="http://www.panli.com/Special/hongbao_201510.aspx" target="_blank">点此了解>></a>
+</p>
+<%} %>
+```
 
 ### 2015年10月9日13:11:02
 
