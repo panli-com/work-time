@@ -10,6 +10,20 @@
 
 ![](./images/20151014/doing_006.png)
 
+```
+//最后1天的弹框，是10月15日0:00—10月16日0:00弹的
+  new bannerSpecial('Special13', new Date(2015, 9, 10, 15,8), new Date(2015, 9, 16,8), new Date(date), function () {
+      var Special10 = $('<div class="Special10" style="width:672px; height:480px; background:url(http://sf.panli.com/Ued/images/20150927/doing_006.png); position:fixed; left:50%; top:50%; margin-left:-336px; margin-top:-240px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:-9px; top:169px;z-index:12;"></a><a href="http://www.panli.com/Special/sale_201510.aspx" style="display:block; width:672px; height:480px; position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
+      $('body').prepend(Special10);
+      Panli.Overlay.open();
+      Special10.find('.SpecialClose').click(function () {
+          Panli.Overlay.close();
+          Special10.remove();
+          return false;
+      });
+  });
+```
+
 
 ### 2015年10月13日10:22:29
 
