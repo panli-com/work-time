@@ -1,5 +1,16 @@
 ## 一个工作提交日志
 
+### 2015年10月14日10:28:02
+
+最后1天的弹框图片请查收附件，是10月15日0:00—10月16日0:00弹的
+
+提交签入
+>http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+>http://localhost:45419/Panli.Site.Static/Ued/images/20150927/
+
+![](./images/20151014/doing_006.png)
+
+
 ### 2015年10月13日10:22:29
 
 双11 这两部分的提示文字于 10月20日0点自动上线，10月27日23:59:59自动下线。
