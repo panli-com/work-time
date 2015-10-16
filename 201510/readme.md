@@ -4,6 +4,8 @@
 需求文档 ：[https://www.zybuluo.com/jean/note/191545#二充值送双11红包](https://www.zybuluo.com/jean/note/191545#二充值送双11红包)
 >充值送双11红包
 
+红色区域为添加部分
+
 ![](./images/2015-10-16_173819.png)
 
 签入
