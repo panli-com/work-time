@@ -1,5 +1,60 @@
 ## 一个工作提交日志 10月份
 
+### 2015年10月16日17:41:27
+需求文档 ：[https://www.zybuluo.com/jean/note/191545#二充值送双11红包](https://www.zybuluo.com/jean/note/191545#二充值送双11红包)
+>充值送双11红包
+
+![](./images/2015-10-16_173819.png)
+
+签入
+>http://localhost:58251/oldsite/mypanli/Account/pay.aspx
+#### coding
+> style
+
+```
+.red{
+  color:Red;
+}
+.two11{
+  border:1px solid #d9d9d9;
+  background:#fffde0;
+  padding: 5px 10px;
+  margin-bottom:14px;
+  position:relative;
+}
+.two11 p{
+  line-height:24px;
+  color:#caa13f;
+}
+.two11 a{
+  color:#73a9cd;
+  top:10px;
+  position:absolute;
+  right:10px;
+}
+.two11 a:hover{
+  text-decoration: none;
+}
+```
+> html
+
+```
+<%-- 这部分的提示文字于 11月3日0点自动上线，11月9日23:59:59自动下线。。--%>
+  <%if ((DateTime.Now > new DateTime(2015, 11, 3, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 9, 23, 59, 59)))
+{ %>
+    <div class="two11">
+        <span class="red">
+        双11攒钱行动开始啦！
+        </span>
+        <p>
+        北京时间 2015.11.3-11.9 期间, 单笔充值到账金额满 <span class="red">100元</span>, 就可获得 <span class="red">10元</span> 双11红包(<span class="red">每人 1 次</span>)。
+
+         <a href="http://www.panli.com/Special/hongbao_201510.aspx" target="_blank">了解详情>></a>
+        </p>           
+    </div>        
+<%} %>
+```
+
 ### 2015年10月16日09:38:09
 > 双11 H5页面
 
