@@ -10,6 +10,7 @@
 
 签入文件
 >E:\panli\Panli.com\Panli.Site.Passport\Login.aspx
+
 >E:\panli\Panli.com\Panli.Site.Passport\Register\Default.aspx
 >http://localhost:45419/Panli.Site.Static/Ued/images/login/banner/banner.png
 
