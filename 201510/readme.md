@@ -15,7 +15,7 @@
 #### coding
 ```
 //定时10月20日0:00—10月28日0:00
-new bannerSpecial('Special13', new Date(2015, 9, 19), new Date(2015, 9, 28), new Date(date), function () {
+new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new Date(date), function () {
     var Special10 = $('<div class="Special10" style="width:507px; height:543px; background:url(http://sf.panli.com/Ued/images/20150927/doing_007.png); position:fixed; left:50%; top:50%; margin-left:-253.5px; margin-top:-271.5px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:40px; top:51px;z-index:12;"></a><a href="http://www.panli.com/Special/hongbao_201510.aspx" style="display:block; width:507px; height:543px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
     $('body').prepend(Special10);
     Panli.Overlay.open();
