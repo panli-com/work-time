@@ -1,5 +1,43 @@
 ## 一个工作提交日志 10月份
 
+### 2015年10月19日11:43:31
+
+请安排按照时间更新登录页、注册页左侧Banner  http://passport.panli.com/Login.aspx
+
+展示时间：2015年10月20日0:00——11月11日23:59
+
+活动结束后，请恢复原来的Banner。
+
+签入文件
+>E:\panli\Panli.com\Panli.Site.Passport\Login.aspx
+>E:\panli\Panli.com\Panli.Site.Passport\Register\Default.aspx
+>http://localhost:45419/Panli.Site.Static/Ued/images/login/banner/banner.png
+
+增加图片
+
+![](./images/20151019/banner.png)
+
+试图如下
+
+![](./images/20151019/2015-10-19_114132.png)
+
+#### coding
+
+```
+<%if (DateTime.Now > new DateTime(2015, 10, 20, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 11, 23, 59, 59))
+   { %>
+ <div class="ban01" style="background-image: url(http://sf.panli.com/Ued/images/login/banner/banner.png);">
+ </div>
+ <%}
+   else
+   { %>
+ <div class="ban01" style="background-image: url(http://sf.panli.com/FrontEnd/images20090801/login/banner/login.jpg);">
+ </div>
+ <%} %>
+```
+
+
+
 ### 2015年10月16日17:41:27
 需求文档 ：[https://www.zybuluo.com/jean/note/191545#二充值送双11红包](https://www.zybuluo.com/jean/note/191545#二充值送双11红包)
 >充值送双11红包
