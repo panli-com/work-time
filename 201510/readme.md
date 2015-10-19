@@ -14,14 +14,6 @@
 >E:\panli\Panli.com\Panli.Site.Passport\Register\Default.aspx
 >http://localhost:45419/Panli.Site.Static/Ued/images/login/banner/banner.png
 
-增加图片
-
-![](./images/20151019/banner.png)
-
-试图如下
-
-![](./images/20151019/2015-10-19_114132.png)
-
 #### coding
 
 ```
@@ -36,6 +28,16 @@
  </div>
  <%} %>
 ```
+
+增加图片
+
+![](./images/20151019/banner.png)
+
+试图如下
+
+![](./images/20151019/2015-10-19_114132.png)
+
+
 
 
 
