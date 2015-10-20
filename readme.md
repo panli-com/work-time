@@ -1,5 +1,34 @@
 ## 一个工作提交日志
 
+## 2015年10月20日15:33:18
+
+pc 端的手机版页面
+
+>http://www.panli.com/Mobile/Index.aspx
+
+### 需要更新获取的文件
+1.http://localhost:45419/Panli.Site.Static/Ued/images/mobile/
+2.http://localhost:58251/oldsite/Mobile/Index.aspx
+
+### demo 演示站
+
+http://page.mu.gg/20151020/
+
+主要更新代码
+```
+<div class="floor-4" data-scroll="true">
+    <div class="floor-text"></div>
+    <div class="floor-4-anmi">
+      <div class="floor-phone"></div>
+      <div class="floor-4-1 floor-4-1-anmi"></div>
+      <div class="floor-4-2 floor-4-2-anmi"></div>
+      <div class="floor-4-3 floor-4-3-anmi"></div>
+      <div class="floor-4-4 floor-4-4-anmi"></div>
+    </div>
+ </div>
+```
+
+
 ### 2015年10月14日10:28:02
 
 最后1天的弹框图片请查收附件，是10月15日0:00—10月16日0:00弹的
