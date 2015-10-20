@@ -7,8 +7,8 @@ pc 端的手机版页面
 >http://www.panli.com/Mobile/Index.aspx
 
 ### 需要更新获取的文件
-1.http://localhost:45419/Panli.Site.Static/Ued/images/mobile/
-2.http://localhost:58251/oldsite/Mobile/Index.aspx
+1. http://localhost:45419/Panli.Site.Static/Ued/images/mobile/
+2. http://localhost:58251/oldsite/Mobile/Index.aspx
 
 ### demo 演示站
 
