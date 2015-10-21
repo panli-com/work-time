@@ -1,5 +1,15 @@
 ## 一个工作提交日志
 
+## 2015年10月21日11:56:56
+
+双11红包 h5 滚动 同步 PC
+
+http://www.panli.com/Special/hongbao_201510_m.aspx
+
+### 需要更新获取的文件
+1. http://localhost:58251/oldsite/Special/hongbao_201510_m.aspx
+2. http://localhost:45419/Panli.Site.Static/Ued/Special/20151015h5/js/main.min.js
+
 ## 2015年10月21日09:11:37
 
 关于商品抓取页面信息 规格不显示 问题？
