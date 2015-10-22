@@ -1,5 +1,64 @@
 ## 一个工作提交日志
 
+
+
+
+## 2015年10月22日09:41:04
+
+PC 首页 双十一主题LOGO 和 倒数计时
+> 主题LOGO ：11月1日0点上线，11月11日 23：59：59 下线
+> 双11 倒计时： 11月11日0点 上线：23：59：59：下线
+
+### 需要更新获取的文件
+1. http://localhost:45419/Panli.Site.Static/Ued/images/20151001/  目录下所有文件
+2. http://localhost:58251/oldsite/master/NewsMain.master    // 母版文件
+
+### code update
+```
+<%--2015 1111 logo 活动--%>
+<%if (DateTime.Now > new DateTime(2015, 11, 11, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 11, 23, 59, 59))
+        { %>
+   <div class="fl logo dual-october-wrap">
+       <a href="http://www.panli.com">
+          <img src="http://sf.panli.com/Ued/images/index/logo1111.gif" alt="panli logo">
+           <div id="dual-october-time" class="dual-october-time-1">
+              <div id="dual-text-time" class="dual-text-time"></div>
+           </div>
+       </a>
+   </div>
+<%} else if (DateTime.Now > new DateTime(2015, 11, 1, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 11, 0, 0, 0))
+  {%>
+
+  <div class="fl logo dual-october-wrap">
+       <a href="http://www.panli.com"><img src="http://sf.panli.com/Ued/images/index/logo1111.gif" alt="panli logo"></a>
+   </div>
+
+ <%
+
+ }else %>
+
+<% { %>
+
+  <div class="fl logo">
+       <a href="http://www.panli.com"><img src="http://sf.panli.com/FrontEnd/images20090801/NewIndex/new/logo.gif" alt="panli logo"></a>
+   </div>
+
+<%} %>
+```
+
+#### 运营说 logo 主题可以直接上
+>logo 时间改为如下
+
+```
+2015, 10, 22, 0, 0, 0
+```
+---
+
+> 已经完成的 以下忽略
+更新获取的文件
+http://localhost:45419/Panli.Site.Static/Ued/images/index/logo1111.gif
+
+
 ## 2015年10月21日11:56:56
 
 双11红包 h5 滚动 同步 PC
