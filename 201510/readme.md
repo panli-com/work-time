@@ -8,7 +8,9 @@
 
 
 ### 需要更新获取的文件 --  新建立跟目录文件夹 UX
+
 >Panli.Site.Static/UX/pc/index/images/doing_001.png
+
 >Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
 
 ![弹出图片](images/20151026/doing_001.png)
