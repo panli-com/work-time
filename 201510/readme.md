@@ -1,5 +1,44 @@
 ## 一个工作提交日志 10月份
 
+## 2015年10月26日12:51:42
+
+#### 需求
+>定时10月27日0:00—11月3日0:00，有弹出蒙版宣传页。活动期间用户每天打开首页，只弹1次。弹窗设计请查收附件。
+>弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx （记得做成整个弹窗图片都可以链接到活动页）
+
+
+### 需要更新获取的文件 --  新建立跟目录文件夹 UX
+>Panli.Site.Static/UX/pc/index/images/doing_001.png
+>Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+
+![弹出图片](images/20151026/doing_001.png)
+
+### code update
+
+```
+//定时10月27日0:00—11月3日0:00，有弹出蒙版宣传页。活动期间用户每天打开首页，只弹1次。弹窗设计请查收附件。
+//弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx （记得做成整个弹窗图片都可以链接到活动页）
+new bannerSpecial('Special13', new Date(2015, 9, 27, 8), new Date(2015, 11, 3, 8), new Date(date), function () {
+   var _ImgW = 507,
+       _ImgH = 554,
+       _closeAR = 40,
+       _closeAT = -9,
+       _imgSrc = 'http://sf.panli.com/UX/pc/index/images/doing_001.png',
+       _aHref = 'http://www.panli.com/Special/hongbao_201510.aspx';
+   var Special10 = $('<div class="Special10" style="width:' + _ImgW + 'px; height:' + _ImgH + 'px; background:url(' + _imgSrc + '); position:fixed; left:50%; top:50%; margin-left:-' + _ImgW / 2 + 'px; margin-top:-' + _ImgH / 2 + 'px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:' + _closeAR + 'px; top:' + _closeAT + 'px;z-index:12;"></a><a href="' + _aHref + '" style="display:block; width:' + _ImgW + 'px; height:' + _ImgH + 'px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
+   $('body').prepend(Special10);
+   Panli.Overlay.open();
+   Special10.find('.SpecialClose').click(function () {
+       Panli.Overlay.close();
+       Special10.remove();
+       return false;
+   });
+});
+```
+
+---
+
+
 ## 2015年10月22日09:41:04
 
 PC 首页 双十一主题LOGO 和 倒数计时
