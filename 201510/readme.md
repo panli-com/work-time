@@ -1,5 +1,143 @@
 ## 一个工作提交日志 10月份
 
+## 2015年10月22日09:41:04
+
+PC 首页 双十一主题LOGO 和 倒数计时
+> 主题LOGO ：11月1日0点上线，11月11日 23：59：59 下线
+> 双11 倒计时： 11月11日0点 上线：23：59：59：下线
+
+### 需要更新获取的文件
+1. http://localhost:45419/Panli.Site.Static/Ued/images/20151001/  目录下所有文件
+2. http://localhost:58251/oldsite/master/NewsMain.master    // 母版文件
+
+### code update
+```
+<%--2015 1111 logo 活动--%>
+<%if (DateTime.Now > new DateTime(2015, 11, 11, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 11, 23, 59, 59))
+        { %>
+   <div class="fl logo dual-october-wrap">
+       <a href="http://www.panli.com">
+          <img src="http://sf.panli.com/Ued/images/index/logo1111.gif" alt="panli logo">
+           <div id="dual-october-time" class="dual-october-time-1">
+              <div id="dual-text-time" class="dual-text-time"></div>
+           </div>
+       </a>
+   </div>
+<%} else if (DateTime.Now > new DateTime(2015, 11, 1, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 11, 0, 0, 0))
+  {%>
+
+  <div class="fl logo dual-october-wrap">
+       <a href="http://www.panli.com"><img src="http://sf.panli.com/Ued/images/index/logo1111.gif" alt="panli logo"></a>
+   </div>
+
+ <%
+
+ }else %>
+
+<% { %>
+
+  <div class="fl logo">
+       <a href="http://www.panli.com"><img src="http://sf.panli.com/FrontEnd/images20090801/NewIndex/new/logo.gif" alt="panli logo"></a>
+   </div>
+
+<%} %>
+```
+
+#### 运营说 logo 主题可以直接上
+>logo 时间改为如下
+
+```
+2015, 10, 22, 0, 0, 0
+```
+---
+
+> 已经完成的 以下忽略
+更新获取的文件
+http://localhost:45419/Panli.Site.Static/Ued/images/index/logo1111.gif
+
+
+## 2015年10月21日11:56:56
+
+双11红包 h5 滚动 同步 PC
+
+http://www.panli.com/Special/hongbao_201510_m.aspx
+
+### 需要更新获取的文件
+1. http://localhost:58251/oldsite/Special/hongbao_201510_m.aspx
+2. http://localhost:45419/Panli.Site.Static/Ued/Special/20151015h5/js/main.min.js
+
+## 2015年10月21日09:11:37
+
+关于商品抓取页面信息 规格不显示 问题？
+> 凡是当当网抓取的信息 页面信息规格被隐藏删除了 是由于 json数据里面的匹配 数量为0导致的
+测试如下页面：
+
+### 同样一件商品测试  -- 2015新款李宁智能跑鞋 赤兔女子透气跑步鞋
+* 天猫商城        页面正常    demo 演示 http://page.mu.gg/20151021/
+* 当当网          页面不正常  demo 演示 http://page.mu.gg/20151021/dang.html
+* 修改后的当当网   页面正常    demo 演示 http://page.mu.gg/20151021/dang2.html
+
+### 测试数据如下
+
+当当网抓取的数据 如下
+```
+{
+  "CombinationId": "1274854444",
+  "Price": 399,
+  "Promo_Price": 199,
+  "Quantity": 0,
+  "SkuIds": [
+      "亮水蓝+荧光粉绿",
+      "35.5"
+  ]
+},
+{
+    "CombinationId": "1274854544",
+    "Price": 399,
+    "Promo_Price": 199,
+    "Quantity": 0,
+    "SkuIds": [
+        "亮水蓝+荧光粉绿",
+        "35"
+    ]
+},
+```
+
+可以看到 `Quantity` 都为零; 数量都为零;而正常访问当当网的数量是有的;
+不知道是否抓取当当网的产品数量有误。
+
+---
+
+
+## 2015年10月20日15:33:18
+
+pc 端的手机版页面
+
+>http://www.panli.com/Mobile/Index.aspx
+
+### 需要更新获取的文件
+1. http://localhost:45419/Panli.Site.Static/Ued/images/mobile/
+2. http://localhost:58251/oldsite/Mobile/Index.aspx
+
+### demo 演示站
+
+http://page.mu.gg/20151020/
+
+主要更新代码
+```
+<div class="floor-4" data-scroll="true">
+    <div class="floor-text"></div>
+    <div class="floor-4-anmi">
+      <div class="floor-phone"></div>
+      <div class="floor-4-1 floor-4-1-anmi"></div>
+      <div class="floor-4-2 floor-4-2-anmi"></div>
+      <div class="floor-4-3 floor-4-3-anmi"></div>
+      <div class="floor-4-4 floor-4-4-anmi"></div>
+    </div>
+ </div>
+```
+
+---
 
 ### 2015年10月19日 17:20:40
 
