@@ -1,5 +1,19 @@
 ## 一个工作提交日志 10月份
 
+## 2015年10月27日17:40:36
+
+### 需要更新获取的文件
+
+>/oldsite/mypanli/ShoppingCart.aspx
+
+### code update
+
+```
+<div class="weizhi">
+  <b>您的位置：</b><a href="/mypanli/">我的Panli</a><span>&gt;</span>我的购物车
+</div>
+```
+
 ## 2015年10月26日12:51:42
 
 #### 需求
