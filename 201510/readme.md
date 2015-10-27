@@ -7,9 +7,9 @@
 >弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx （记得做成整个弹窗图片都可以链接到活动页）
 
 
-### 需要更新获取的文件 --  新建立跟目录文件夹 UX
+### 需要更新获取的文件 --  新建立跟目录文件夹 Pc
 
->Panli.Site.Static/UX/pc/index/images/doing_001.png
+>Panli.Site.Static/Pc/index/images/doing_001.png
 
 >Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
 
