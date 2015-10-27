@@ -2,6 +2,8 @@
 
 ## 2015年10月27日17:40:36
 
+我的仓库 改为  我的购物车
+
 ### 需要更新获取的文件
 
 >/oldsite/mypanli/ShoppingCart.aspx
