@@ -10,7 +10,9 @@
 
 >/Panli.Site.Static/Ued/Pc/index/   --静态文件
 
->/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js -- --静态文件 首页弹窗 定时11月3日0:00—11月10日0:00
+>/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+
+>-- --静态文件 首页弹窗 定时11月3日0:00—11月10日0:00
 
 ![](images/20151102/doing_003.png)
 
