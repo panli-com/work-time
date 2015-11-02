@@ -46,7 +46,9 @@ new bannerSpecial('Special13', new Date(2015, 10, 3), new Date(2015, 10, 10), ne
 
 ### 需要更新获取的文件
 
-出了首页的 母版 `NewsMain.master` 外，其他页面都继承了 `NewMain.master` 母版
+在有首页的 母版 `NewsMain.master` 外，其他页面都继承了 `NewMain.master` 母版 (不包含(ShoppingCart.aspx))
+
+`ShoppingCart.aspx` 是没有继承母版的；需要更新获取
 
 即：在这2个母版中引入 下面更新的代码既可；
 
