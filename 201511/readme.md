@@ -44,7 +44,9 @@ new bannerSpecial('Special13', new Date(2015, 10, 3), new Date(2015, 10, 10), ne
 
 双十一当天 弹出层 倒计时
 
+### demo
 
+[静态演示](http://panli.mu.gg/page/20151030/)
 
 ### 需要更新获取的文件
 
