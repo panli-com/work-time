@@ -50,14 +50,15 @@ new bannerSpecial('Special13', new Date(2015, 10, 3), new Date(2015, 10, 10), ne
 即：在这2个母版中引入 下面更新的代码既可；
 
 >http://localhost:58251/oldsite/master/NewsMain.master
->http://localhost:58251/oldsite/mypanli/Default.aspx          -- >~/master/NewMyPanli.master
+>http://localhost:58251/oldsite/mypanli/Default.aspx          -- ~/master/NewMyPanli.master
 >http://localhost:58251/oldsite/mypanli/ShoppingCart.aspx
->http://localhost:58251/oldsite/mypanli/Favorite.aspx         -- >~/master/NewMyPanli.master
->http://localhost:58251/oldsite/mypanli/OrderCart.aspx        -- >~/master/NewMyPanli.master
->http://localhost:58251/oldsite/mypanli/OrderList.aspx        -- >~/master/NewMyPanli.master
->http://localhost:58251/oldsite/Piece/Default.aspx            -- >~/master/NewMain.master
->http://localhost:58251/oldsite/vip/Default.aspx              -- >~/master/NewMain.master
->http://localhost:58251/oldsite/Cowry/Default.aspx            -- >~/master/NewMain.master
+>http://localhost:58251/oldsite/mypanli/Favorite.aspx         -- ~/master/NewMyPanli.master
+>http://localhost:58251/oldsite/mypanli/OrderCart.aspx        -- ~/master/NewMyPanli.master
+>http://localhost:58251/oldsite/mypanli/OrderList.aspx        -- ~/master/NewMyPanli.master
+>http://localhost:58251/oldsite/Piece/Default.aspx            -- ~/master/NewMain.master
+>http://localhost:58251/oldsite/vip/Default.aspx              -- ~/master/NewMain.master
+>http://localhost:58251/oldsite/Cowry/Default.aspx            -- ~/master/NewMain.master
+>
 >/Panli.Site.Static/Ued/Pc/common/   -- 组件 静态文件
 >/Panli.Site.Static/Ued/Pc/index/   --静态文件
 
