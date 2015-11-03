@@ -35,6 +35,14 @@ Panli.Site.Static/Ued/Pc/header/
 Panli.Site.Static/Ued/Pc/index/js/double.js
 > 双11 弹出层 时间接口修改
 
+
+
+### 学习一点点
+[关于服务器时间接口的前端详解](http://panli.mu.gg/2015/11/03/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E4%B8%96%E7%95%8C%E6%97%B6%E9%97%B4-UTC-%E8%BD%AC%E6%8D%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%97%B6%E5%8C%BA%E6%97%B6%E9%97%B4/)
+
+
+
+
 #### oldsite/master/NewsMain.master  
 ```
 <asp:ContentPlaceHolder ID="NewHead" runat="Server">
@@ -149,10 +157,6 @@ Panli.Site.Static/Ued/Pc/index/js/double.js
 
 })();
 ```
-
-### 学习一点点
-[关于服务器时间接口的前端详解](http://panli.mu.gg/2015/11/03/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E4%B8%96%E7%95%8C%E6%97%B6%E9%97%B4-UTC-%E8%BD%AC%E6%8D%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%97%B6%E5%8C%BA%E6%97%B6%E9%97%B4/)
-
 
 ---
 
