@@ -201,8 +201,8 @@ http://page.mu.gg/20151020/
 定时10月20日0:00—10月28日0:00，有弹出蒙版宣传页
 
 签入文件
->http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
->http://localhost:45419/Panli.Site.Static/Ued/images/20150927/doing_007.png
+1. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+2. >http://localhost:45419/Panli.Site.Static/Ued/images/20150927/doing_007.png
 
 ![](./images/doing_007.png)
 
@@ -232,10 +232,10 @@ new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new
 活动结束后，请恢复原来的Banner。
 
 签入文件
->E:\panli\Panli.com\Panli.Site.Passport\Login.aspx
 
->E:\panli\Panli.com\Panli.Site.Passport\Register\Default.aspx
->http://localhost:45419/Panli.Site.Static/Ued/images/login/banner/banner.png
+1. E:\panli\Panli.com\Panli.Site.Passport\Login.aspx
+2. E:\panli\Panli.com\Panli.Site.Passport\Register\Default.aspx
+3. http://localhost:45419/Panli.Site.Static/Ued/images/login/banner/banner.png
 
 #### coding
 
@@ -273,7 +273,7 @@ new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new
 ![](./images/2015-10-16_173819.png)
 
 签入
->http://localhost:58251/oldsite/mypanli/Account/pay.aspx
+1. http://localhost:58251/oldsite/mypanli/Account/pay.aspx
 #### coding
 > style
 
@@ -329,8 +329,8 @@ new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new
 ![](./images/2015-10-16_094557.png)
 
 签入
->http://localhost:58251/oldsite/Special/hongbao_201511_m.aspx
->http://localhost:45419/Panli.Site.Static/Ued/Special/20151015h5/
+1. http://localhost:58251/oldsite/Special/hongbao_201511_m.aspx
+2. http://localhost:45419/Panli.Site.Static/Ued/Special/20151015h5/
 
 
 ### 2015年10月15日09:22:16
@@ -339,9 +339,9 @@ new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new
 ![](./images/20151015.gif)
 
 签入
->http://localhost:45419/Panli.Site.Static/Ued/Special/20151014/js/main.min.js
->http://localhost:45419/Panli.Site.Static/Ued/Special/20151014/main.min.css
->http://localhost:58251/oldsite/Special/hongbao_201511.aspx
+1. http://localhost:45419/Panli.Site.Static/Ued/Special/20151014/js/main.min.js
+2. http://localhost:45419/Panli.Site.Static/Ued/Special/20151014/main.min.css
+3. http://localhost:58251/oldsite/Special/hongbao_201511.aspx
 
 
 ### 2015年10月14日10:28:02
@@ -349,8 +349,8 @@ new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new
 最后1天的弹框图片请查收附件，是10月15日0:00—10月16日0:00弹的
 
 提交签入
->http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
->http://localhost:45419/Panli.Site.Static/Ued/images/20150927/
+1. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+2. http://localhost:45419/Panli.Site.Static/Ued/images/20150927/
 
 ![](./images/20151014/doing_006.png)
 
@@ -384,8 +384,8 @@ http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
 ![](./images/20151013/2015-10-13_102725.png)
 
 提交签入
->http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
->http://www.panli.com/mypanli/OrderCart.aspx
+1. http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
+2. http://www.panli.com/mypanli/OrderCart.aspx
 
 #### 需要后台修改
 >红包金额(图中XX.XX元) = 实际支付 的，不含报关费 的 国际运费的5%
@@ -410,5 +410,5 @@ http://www.panli.com/mypanli/DeliverType/OrderSuccess.aspx?t=1
 ![弹出图片](./images/20151009/doing_005.png)
 
 提交签入
->http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
->http://localhost:45419/Panli.Site.Static/Ued/images/20150927/
+1. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+2. http://localhost:45419/Panli.Site.Static/Ued/images/20150927/
