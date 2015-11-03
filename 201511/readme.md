@@ -3,18 +3,22 @@
 
 ## 2015年11月3日 10:34:09
 
->服务器时间接口 更改
+>服务器时间接口 更改 文件较多，#文件说明
 
 ### 需要更新获取的文件
 
 1. http://localhost:58251/oldsite/master/NewsMain.master
-2. http://localhost:45419/Panli.Site.Static/Ued/Pc/  
-3. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
-4. http://localhost:45419/Panli.Site.Static/Ued/Pc/common/js/panli.min.js
-5. http://localhost:45419/Panli.Site.Static/Ued/Pc/header/
-6. http://localhost:45419/Panli.Site.Static/Ued/Pc/index/js/double.js
+2. http://localhost:58251/oldsite/master/NewMain.master
+3. http://localhost:45419/Panli.Site.Static/Ued/Pc/  
+4. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+5. http://localhost:45419/Panli.Site.Static/Ued/Pc/common/js/panli.min.js
+6. http://localhost:45419/Panli.Site.Static/Ued/Pc/header/
+7. http://localhost:45419/Panli.Site.Static/Ued/Pc/index/js/double.js
 
 ### 文件说明
+
+oldsite/master/NewMain.master and master/NewsMain.master
+> panli 组件版本更新
 
 Panli.Site.Static/Ued/Pc/
 > 新增 header 目录 由于 获取服务器时间接口 更改 需要修改 头部咯logo 的倒计时 模块
