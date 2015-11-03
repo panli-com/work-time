@@ -1,6 +1,47 @@
 ## 一个工作提交日志 11月份
 
 
+## 2015年11月3日 10:34:09
+
+>务器时间接口 更改
+
+### 需要更新获取的文件
+
+1. http://localhost:58251/oldsite/master/NewsMain.master
+2. http://localhost:45419/Panli.Site.Static/Ued/Pc/  
+> 新增 header 目录 由于 获取服务器时间接口 更改 需要修改 头部咯logo 的倒计时 模块
+3. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+>  首页弹出层 时间接口修改
+4. http://localhost:45419/Panli.Site.Static/Ued/Pc/common/js/panli.min.js
+> panli 组件 服务器时间接口修改 新增 getServerTimeStamp(callback) 函数
+5. http://localhost:45419/Panli.Site.Static/Ued/Pc/header/
+> 优化的目录结构  修改了 js 的 获取服务器时间接口 此目录需全部上传
+
+#### oldsite/master/NewsMain.master  
+```
+<asp:ContentPlaceHolder ID="NewHead" runat="Server">
+ <meta name="keywords" content="Panli,代购,中国代购,华人代购,代购演 示,填写代购单" />
+ <meta name="description" content="Panli" />
+</asp:ContentPlaceHolder>
+ <!-- panli.min 组件 -->
+ <script type="text/javascript" src="http://sf.panli.com/Ued/Pc/common/js/panli.min.js?v=0.0.1"></script>
+ <script src="http://sf.panli.com/Ued/Pc/header/20151001/dual.js?v=0.1" type="text/javascript"></script>
+ <link type="text/css" rel="Stylesheet" href="http://sf.panli.com/Ued/Pc/header/20151001/dual.css?v=0.1" />
+ <!-- double 11 当天倒计时 请在 11当天加载此 double.js -->
+  <%if (DateTime.Now > new DateTime(2015, 11, 11, 0, 0, 0) && DateTime.Now < new DateTime(2015, 11, 12, 0, 0, 0))
+    { %>
+         <script type="text/javascript" src="http://sf.panli.com/Ued/Pc/index/js/double.js?v=0.0.1"></script>
+  <% } %>
+</head>
+
+```
+
+### 学习一点点
+[关于服务器时间接口的前端详解](http://panli.mu.gg/2015/11/03/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E4%B8%96%E7%95%8C%E6%97%B6%E9%97%B4-UTC-%E8%BD%AC%E6%8D%A2%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%97%B6%E5%8C%BA%E6%97%B6%E9%97%B4/)
+
+
+---
+
 ## 2015年11月2日14:16:35
 
 首页弹框 定时11月3日0:00—11月10日0:00
