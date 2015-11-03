@@ -9,12 +9,23 @@
 
 1. http://localhost:58251/oldsite/master/NewsMain.master
 2. http://localhost:45419/Panli.Site.Static/Ued/Pc/  
-> 新增 header 目录 由于 获取服务器时间接口 更改 需要修改 头部咯logo 的倒计时 模块
 3. http://localhost:45419/Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
->  首页弹出层 时间接口修改
 4. http://localhost:45419/Panli.Site.Static/Ued/Pc/common/js/panli.min.js
-> panli 组件 服务器时间接口修改 新增 getServerTimeStamp(callback) 函数
 5. http://localhost:45419/Panli.Site.Static/Ued/Pc/header/
+
+
+### 文件说明
+
+Panli.Site.Static/Ued/Pc/
+> 新增 header 目录 由于 获取服务器时间接口 更改 需要修改 头部咯logo 的倒计时 模块
+
+Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+> 首页弹出层 时间接口修改
+
+Panli.Site.Static/Ued/Pc/common/js/panli.min.js
+> panli 组件 服务器时间接口修改 新增 getServerTimeStamp(callback) 函数
+
+Panli.Site.Static/Ued/Pc/header/
 > 优化的目录结构  修改了 js 的 获取服务器时间接口 此目录需全部上传
 
 #### oldsite/master/NewsMain.master  
