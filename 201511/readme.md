@@ -1,6 +1,71 @@
 ## 一个工作提交日志 11月份
 
 
+## 2015年11月5日13:34:37
+> 运费弹出提示
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/mypanli/DeliverType/ValidateProducts.aspx
+
+
+### 文件说明
+
+/oldsite/mypanli/DeliverType/ValidateProducts.aspx
+> 依赖库 需引入 panli.min.js 库
+
+![](./images/20151105/weg.gif)
+
+
+##### addCode
+
+```
+<style type="text/css">
+    #TotalWeight1
+    { position:relative;
+      top:2px;
+        }
+    .z-panbi-a
+    {
+        color:Blue;
+        }
+</style>
+<script type="text/javascript">
+    var ProWeight = '<%=TotalWeight1 %>';     
+    var textWeight = '含包装重量及50g包裹面单重量';
+    if (ProWeight > 1800) {
+        textWeight = '含包装重量';
+    }
+    $("#TotalWeight1").hover(
+        function () {
+            PL.tips(textWeight, '#TotalWeight1', { tips: 4 })
+        },
+        function () {
+            PL.closeAll();
+        }
+    );
+    
+</script>
+```
+
+
+###### yCode
+```
+<dl class="yusuan">
+<dd>
+    <%--您本次提交运单的商品包裹重量总计--%>您本次提交运单的商品包裹预估重量：<span><%=TotalWeight %>g<span style="color:#333333">（含预估包装重量）</span></span></dd>
+<dt>商品总价值：<b>￥<%=TotalPrice.ToString("0.00") %></b>&nbsp;(可获番币<a
+    href="http://service.panli.com/Help/Detail/373.html" target="_blank"><img src="http://sf.panli.com/FrontEnd/images20090801/icon/use/w1.gif"
+        alt="番币规则" /></a>)</dt>
+</dl>
+```
+
+
+需求文档地址
+https://www.zybuluo.com/jean/note/209038
+
+---
+
 ## 2015年11月3日 10:34:09
 
 >服务器时间接口 更改 文件较多，#文件说明
