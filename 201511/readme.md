@@ -1,5 +1,23 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月9日09:07:17
+> 我要转运链接地址错误
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/mypanli/SelfPurchase/Order.aspx
+
+### updateCode
+
+```
+<div class="f_ti">
+    <i>箭头</i>
+    <p>
+    在大陆购物网站下单付款，然后将商品邮寄至<a href="http://www.panli.com/mypanli/SelfPurchase/Address.aspx">唯一收货地址</a>，提交购物清单后，Panli即可为您验货和集中运送。
+    <a  href="http://service.panli.com/Help/List/12.html" target="_blank">了解更多>></a></p>
+    <a title="关闭" class="guan" href="javascript:;" onclick="$('.f_ti').hide();"></a>
+</div>
+```
 
 ## 2015年11月5日13:34:37
 > 运费弹出提示
@@ -44,7 +62,7 @@
             PL.closeAll();
         }
     );
-    
+
 </script>
 ```
 
