@@ -1,5 +1,22 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月11日17:44:28
+>感恩节活动-pc
+
+### 签入文件
+
+1. http://localhost:45419/Panli.Site.Static/Ued/Special/20151111/ 新建文件夹
+2. http://localhost:58251/oldsite/Special/Thanksgiving2015/PC/PromotionPay.aspx
+3. http://localhost:58251/oldsite/Special/Thanksgiving2015/PC/PaySuccess.aspx
+
+
+### demo
+
+详情页 http://panli.mu.gg/special/20151111/
+支付成功页 http://panli.mu.gg/special/20151111/index2.html
+
+---
+
 ## 2015年11月10日18:10:05
 
 > 一键代购 增加 help 提示信息
