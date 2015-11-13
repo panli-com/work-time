@@ -1,6 +1,44 @@
 ## 一个工作提交日志 11月份
 
 
+## 2015年11月13日15:46:53
+>感恩节活动-h5
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/Special/Thanksgiving2015/H5/PaySuccess.aspx
+2. http://localhost:58251/oldsite/Special/Thanksgiving2015/H5/ProductDetails.aspx
+3. http://localhost:58251/oldsite/Special/Thanksgiving2015/H5/ProductList.aspx
+4. http://localhost:45419/Panli.Site.Static/Ued/Special/20151111/h5/  - 新建h5 目录
+
+
+### demo
+
+[商品列表](http://panli.mu.gg/special/20151111h5/list.html)
+
+![](./images/20151113/list.png)
+
+[商品详情](http://panli.mu.gg/special/20151111h5/index.html)
+
+![](./images/20151113/index.png)
+
+[支付后](http://panli.mu.gg/special/20151111h5/index2.html)
+
+![](./images/20151113/index22.png)
+
+---
+
+## 2015年11月13日15:42:35
+>我的购物车 文字修改  唯一收获地址 改成 转运仓库地址
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/mypanli/ShoppingCart.aspx - 我的购物车 文字修改
+2. http://localhost:58251/oldsite/mypanli/SelfPurchase/Order.aspx  - 唯一收获地址 改成 转运仓库地址
+
+
+---
+
 ## 2015年11月13日08:56:00
 >感恩节活动-pc  -- 商品列表页
 
