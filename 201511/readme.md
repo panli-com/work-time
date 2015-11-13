@@ -1,5 +1,20 @@
 ## 一个工作提交日志 11月份
 
+
+## 2015年11月13日08:56:00
+>感恩节活动-pc  -- 商品列表页
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/Special/Thanksgiving2015/PC/ProductList.aspx
+2. http://localhost:45419/Panli.Site.Static/Ued/Special/20151111/css/   css 新建目录
+
+### demo 
+
+运营编码
+
+---
+
 ## 2015年11月11日17:44:28
 >感恩节活动-pc
 
