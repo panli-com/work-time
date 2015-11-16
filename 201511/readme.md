@@ -1,5 +1,27 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月16日09:05:57
+>感恩节网站同期改动
+
+### 签入文件 
+
+1. http://localhost:58251/oldsite/services-rates/Default.aspx
+2. http://localhost:58251/oldsite/mypanli/SelfPurchase/Order.aspx
+3. http://localhost:58251/oldsite/mypanli/ShoppingCart.aspx
+
+文件修改说明
+
+http://www.panli.com/mypanli/ShoppingCart.aspx
+>购物车面板屑 (从 "我的仓库" 改成 "购物车" )
+
+http://www.panli.com/mypanli/SelfPurchase/Order.aspx
+>"唯一收货地址" 改成 "转运仓库地址"
+
+http://www.panli.com/services-rates/
+>"唯一收货地址" 改成 "转运仓库地址"
+
+
+--- 
 
 ## 2015年11月13日15:46:53
 >感恩节活动-h5
