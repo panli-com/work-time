@@ -9,6 +9,10 @@
 2. http://localhost:58251/oldsite/mypanli/DeliverType/DeliverShipOrderAddress.aspx
 
 
+![](./images/20151118/2015-11-18_124151.png)
+
+---
+
 ![](./images/20151118/2015-11-18_094845.png)
 
 ### code
