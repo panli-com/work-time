@@ -26,7 +26,7 @@
 /mypanli/OrderList.aspx
 
 ```html
-<div class="am_tsgai" style="margin-top:20px;" >
+<div class="am_tsgai" style="margin-top:10px;" >
     <p>法国巴黎遭遇多项恐怖袭击事件，法国空陆海全境关闭，到法国的货物暂停发货。</p>
     <a title="关闭" class="gb" href="javascript:;" onclick="$('.am_tsgai').remove()" > </a>
 </div>
