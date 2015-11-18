@@ -8,10 +8,15 @@
 1. http://localhost:1731/oldsite/mypanli/OrderList.aspx
 2. http://localhost:58251/oldsite/mypanli/DeliverType/DeliverShipOrderAddress.aspx
 
+### show img
+
+1. 
 
 ![](./images/20151118/2015-11-18_124151.png)
 
 ---
+
+2. 
 
 ![](./images/20151118/2015-11-18_094845.png)
 
