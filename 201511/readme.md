@@ -1,5 +1,26 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月18日09:47:22
+>法国巴黎事件提示信息
+
+### 签入文件
+
+1. http://localhost:58251/oldsite/mypanli/DeliverType/DeliverShipOrderAddress.aspx
+
+
+![](./images/20151118/2015-11-18_094845.png)
+
+### code
+
+```html
+<div class="am_tsgai" <%= HasLastPickShip ? "style=\"display:none;clear:both;\"" : "style=\"clear:both;\"" %>>
+    <p>
+      法国巴黎遭遇多项恐怖袭击事件，法国空陆海全境关闭，到法国的货物暂停发货。
+    </p>
+    <a title="关闭" class="gb" href="#" id="pickDeliveryTip"></a>
+</div>
+```
+
 ## 2015年11月16日09:05:57
 >感恩节网站同期改动
 
