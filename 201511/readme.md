@@ -1,5 +1,29 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月27日09:08:55
+>双12 活动 
+
+### 签入文件
+
+1. http://localhost:1731/oldsite/Special/Double12/PC/ReceiveCoupon_20151212_PC.aspx
+2. http://localhost:1731/oldsite/Special/Double12/H5/ReceiveCoupon_20151212_H5.aspx
+3. http://localhost:45419/Panli.Site.Static/Ued/Special/20151126/  新建文件夹 - 静态文件夹
+
+### demo 演示
+
+> PC
+
+http://panli.mu.gg/special/20151125/
+
+> H5
+
+![H5](./images/20151127/2015-11-27_091806.png)
+
+
+
+
+---
+
 ## 2015年11月18日09:47:22
 >法国巴黎事件提示信息
 
