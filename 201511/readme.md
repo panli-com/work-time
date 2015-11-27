@@ -20,7 +20,9 @@ http://panli.mu.gg/special/20151125/
 ![H5](./images/20151127/2015-11-27_091806.png)
 
 
+> 双12 预前演练
 
+http://panli.mu.gg/special/20151124/
 
 ---
 
