@@ -6,7 +6,10 @@
 ### 特别说明
 > 由于此次页面用到了 `panli` 组件库的 弹出窗 组件
 设计到了  确定 按钮的文字 由 目前的 `panli 0.0.9` 版本 不满足自定义确定按钮文字,
-为满足需求，请先升级 `panli` 组件 到 `0.0.10` 版本
+为满足需求，请先升级 `panli` 组件 到 `0.0.10` 版本;
+
+>弹出框的 只涉及到 PC 版本的 `Panli` 组件库
+H5 页面 目前不需要
 
 [panli组件版本更新日志](https://github.com/panli-com/depository-panli/blob/master/up.md)
 
