@@ -3,6 +3,13 @@
 ## 2015年11月27日09:08:55
 >双12 活动 
 
+### 特别说明
+> 由于此次页面用到了 `panli` 组件库的 弹出窗 组件
+设计到了  确定 按钮的文字 由 目前的 `panli 0.0.9` 版本 不满足自定义确定按钮文字,
+为满足需求，请先升级 `panli` 组件 到 `0.0.10` 版本
+
+[panli组件版本更新日志](https://github.com/panli-com/depository-panli/blob/master/up.md)
+
 ### 签入文件
 
 1. http://localhost:1731/oldsite/Special/Double12/PC/ReceiveCoupon_20151212_PC.aspx
