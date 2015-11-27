@@ -9,7 +9,8 @@
 为满足需求，请先升级 `panli` 组件 到 `0.0.10` 版本;
 
 >弹出框的 只涉及到 PC 版本的 `Panli` 组件库
-H5 页面 目前不需要
+
+>H5 页面 目前不需要 自定义 确定按钮文字
 
 [panli组件版本更新日志](https://github.com/panli-com/depository-panli/blob/master/up.md)
 
