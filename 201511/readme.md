@@ -19,6 +19,9 @@
 1. http://localhost:1731/oldsite/Special/Double12/PC/ReceiveCoupon_20151212_PC.aspx
 2. http://localhost:1731/oldsite/Special/Double12/H5/ReceiveCoupon_20151212_H5.aspx
 3. http://localhost:45419/Panli.Site.Static/Ued/Special/20151126/  新建文件夹 - 静态文件夹
+4. http://localhost:1731/oldsite/master/NewsMain.master  
+
+> 更新母版页 引入 `panli` 组件的后缀版本号，防止缓存
 
 ### demo 演示
 
