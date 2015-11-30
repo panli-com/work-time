@@ -1,5 +1,91 @@
 ## 一个工作提交日志 11月份
 
+## 2015年11月30日 15:40:20
+>一键代购页面提示语
+
+[需求文档链接](https://www.zybuluo.com/jean/note/223080#42-一键代购页面提示语)
+
+### 签入文件
+
+1. http://localhost:1731/oldsite/Crawler.aspx
+
+### 视图展现
+
+![](./images/20151130/2015-11-30_154442.png)
+
+### codeUpdate
+
+```
+<%if (DateTime.Now > new DateTime(2015, 12, 12, 0, 0, 0) && DateTime.Now < new DateTime(2015, 12, 12, 23, 59, 59))
+{ %>
+<div class="z-craw-help-wrap">
+<p class="z-craw-p1">在海外，如何顺利抢购双12？</p>                
+<p class="z-craw-p2">1.提交双12订单时，建议注明备选颜色、尺寸、款式以及其他需要备注的信息，以便尽快为您抢购。</p>
+<p class="z-craw-p2">2.如果Panli抓取的价格高于双12价，您可以先下单，稍后Panli会为您退还差价。</p>               
+</div>
+<style type="text/css">
+.z-craw-help-wrap
+{border: 1px solid #ffdda1; margin-bottom: 10px; padding-bottom:10px;background: #ffffcc url(http://sf.panli.com/Ued/Pc/crawler/images/crawler-help-bg.png) no-repeat 865px 32px;}
+    .z-craw-p1{
+            line-height: 38px; padding-left: 40px; background: url(http://sf.panli.com/FrontEnd//images20090801/AddItemPanel/deng01.png) no-repeat 21px 12px;
+            height: 33px; color: #dd7800;
+            font-size:14px;
+            font-weight:bold;
+        }
+        .z-craw-p2
+        { color:#dd7800; font-size:12px; 
+            text-indent:40px;
+            line-height: 20px;
+            }
+.twoCodes
+{
+    color: #f60;
+    position: relative;
+}
+.twoCodes em
+{
+    position: absolute;
+    display: block;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Gobal/qr_app_ico.png) no-repeat;
+    width: 16px;
+    height: 16px;
+    right: -20px;
+    top: 0px;
+}
+.twoCodes:hover
+{
+    color: #f60;
+}
+.twoCodes span
+{
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: .2s ease-in;
+    -0-transition: .2s ease-in;
+    -moz-transition: .2s ease-in;
+    transition: .2s ease-in;
+    position: absolute;
+    height: 176px;
+    width: 129px;
+    left: 50%;
+    margin-left: -65px;
+    top: 25px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Gobal/panlicode_app.png) no-repeat;
+    z-index: 600;
+}
+.twoCodes:hover span
+{
+    opacity: 1;
+    filter: alpha(opacity=100);
+    top: 15px;
+}
+</style>
+<%} %>
+```
+
+
+--- 
+
 ## 2015年11月27日09:08:55
 >双12 活动 
 
