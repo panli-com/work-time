@@ -1,5 +1,19 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月8日16:12:13
+
+> 0.0.8
+
+修复http://www.panli.com/Special/taobao20151212.aspx 
+显示天数增加一天
+
+### 签入文件
+
+1. /Panli.Site.Static/Ued/Special/20151203/build/js/main.min.js
+
+
+---
+
 ## 2015年12月8日14:23:08
 
 > 首页弹框
