@@ -1,5 +1,25 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月8日10:50:22
+
+> 头部logo倒数计时
+
+### 签入文件
+
+1. PanliTuanO\Panli.Site.TuanO\Views\Shared\_Head.cshtml
+2. PanliTuanO\Panli.TuanO.Business\Extension\TuanBusinessExtension.cs
+3. Panli.Site.Static/Ued/Pc/header/20151203/  新建文件夹
+4. oldsite/master/NewMain.master
+5. oldsite/master/NewsMain.master
+
+### demo
+
+
+
+
+
+---
+
 ## 2015年12月7日17:35:30
 > 登录注册页面banner 
 
