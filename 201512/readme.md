@@ -1,5 +1,17 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月8日14:23:08
+
+> 首页弹框
+
+>是12月12日0:00—12月13日0:00弹的 http://www.panli.com/Special/sale_201512.aspx
+
+### 签入文件
+
+1. Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+2. Panli.Site.Static/Ued/Special/20151203/build/images/layer1212.png
+
+
 ## 2015年12月8日10:50:22
 
 > 头部logo倒数计时
