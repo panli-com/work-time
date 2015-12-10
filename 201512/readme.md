@@ -8,7 +8,8 @@
 
 1. Panli.Site.Static/Ued/Pc/header/20151203/js/double.js
 2. Panli.Site.Static/Ued/Pc/header/20151203/images/dobuleDay1212.png
-
+3. /oldsite/master/NewsMain.master
+4. /oldsite/master/NewMain.master
 
 ### 试图
 
