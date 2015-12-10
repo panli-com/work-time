@@ -1,5 +1,36 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月10日11:22:11
+
+双12当天弹框倒计时
+
+### 签入文件
+
+1. Panli.Site.Static/Ued/Pc/header/20151203/js/double.js
+2. Panli.Site.Static/Ued/Pc/header/20151203/images/dobuleDay1212.png
+
+
+### 试图
+
+![](./images/dobuleDay1212.png)
+
+
+
+---
+
+
+## 2015年12月10日 09:18:40
+
+> 0.0.9
+修复天数不算当天 （头部和 双12 排行榜）
+
+### 签入文件
+
+1. /Panli.Site.Static/Ued/Pc/header/20151203/js/main.min.js
+2. /Panli.Site.Static/Ued/Special/20151203/build/js/main.min.js
+
+---
+
 ## 2015年12月8日16:12:13
 
 > 0.0.8
