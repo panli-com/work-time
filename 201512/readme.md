@@ -1,5 +1,50 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月17日 11:26:39
+
+>圣诞节-logo
+
+### 签入文件
+
+1. /oldsite/master/NewsMain.master
+2. /Panli.Site.Static/Ued/Pc/header/20151217/images/logo-p.gif //新建目录
+
+
+![](./images/logo-p.gif)
+
+
+### updata code
+
+
+```
+<%--2015 1212 logo 活动--%>
+<%if (DateTime.Now > new DateTime(2015, 11, 22, 0, 0, 0) && DateTime.Now < new DateTime(2015, 12, 29, 0, 0, 0))
+{ %>
+<%--<div class="fl logo dual-october-wrap">
+	<a href="http://www.panli.com">
+	<img src="http://sf.panli.com/Ued/Pc/header/20151203/images/logo1212.png" alt="panli logo">
+		<div id="dual-october-time" class="dual-october-time">
+			<div id="dual-text-time" class="dual-text-time"></div>
+		</div>
+		<div class="hammer-wrap" id="hammer-wrap"></div>
+	</a>
+	</div>--%>
+	<div class="fl logo" style="margin:0">
+		<a href="http://www.panli.com"><img src="http://sf.panli.com/Ued/Pc/header/20151217/images/logo-p.gif" alt="panli logo"></a>
+	</div>
+<%}
+else %>
+<% { %>
+<div class="fl logo">
+		<a href="http://www.panli.com"><img src="http://sf.panli.com/FrontEnd/images20090801/NewIndex/new/logo.gif" alt="panli logo"></a>
+</div>
+<%} %>
+```
+
+
+---
+
+
 ## 2015年12月10日11:22:11
 
 >双12当天弹框倒计时
