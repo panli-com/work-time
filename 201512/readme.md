@@ -1,5 +1,25 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月21日11:26:08
+
+>圣诞三重礼弹窗
+
+
+1. 定时现在—12月29日0:00
+
+2. 弹出框链接：  http://www.panli.com/Special/Christmas2015.html 
+（记得做成整个弹窗图片都可以链接到活动页）
+
+### 签入文件
+
+1. /Panli.Site.Static/Ued/Pc/index/images/layer20151221.png
+2. /Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
+
+
+![](./images/layer20151221.png)
+
+---
+
 ## 2015年12月17日 11:26:39
 
 >圣诞节-logo
