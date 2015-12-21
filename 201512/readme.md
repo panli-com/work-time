@@ -1,5 +1,32 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月21日14:58:38
+
+>app h5 遮罩层
+
+
+## 签入文件
+
+1. Panli.Site.Static/Ued/H5/ 新建目录
+2. oldsite/H5Cover.html
+
+## link
+
+- http://www.panli.com/H5Cover.html
+
+## api 
+
+- http://172.20.7.232:5029/H5API/GetH5Cover?url=taobao.com
+- http://api.nnn.li/ip/
+
+## demo
+
+http://panli.mu.gg/app-h5/20151214/
+
+
+
+---
+
 ## 2015年12月21日11:26:08
 
 >圣诞三重礼弹窗
