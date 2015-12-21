@@ -12,7 +12,7 @@
 
 ## link
 - http://www.panli.com/H5Cover.html?url=https://detail.m.tmall.com/item.htm?spm=875.7403452.a2227oh.d100_a220m.6910245.0.0&id=521628888465&skuId=3107481437099
-- http://www.panli.com/H5Cover.html
+
 
 ## api 
 
