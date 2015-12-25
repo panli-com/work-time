@@ -9,7 +9,7 @@
 ## 签入文件
 
 1. /oldsite/aric/ad_index.aspx
-
+2. /oldsite/App_Data/logo.gif
 ---
 
 
