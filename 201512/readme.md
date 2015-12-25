@@ -1,5 +1,18 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月25日09:23:06
+
+> logo 拉伸了
+
+? http://www.panli.com/aric/ad_index.aspx
+
+## 签入文件
+
+1. /oldsite/aric/ad_index.aspx
+
+---
+
+
 ## 2015年12月21日14:58:38
 
 >app h5 遮罩层
