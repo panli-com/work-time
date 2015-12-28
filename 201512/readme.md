@@ -1,5 +1,25 @@
 ## 一个工作提交日志 12月份
 
+## 2015年12月28日11:13:05
+
+>首页小改动
+
+## 签入文件
+
+1. Panli.Site.Static/Ued/Pc/index/build/  新建立的目录
+2. oldsite/Default.aspx
+3. oldsite/master/NewsMain.master
+
+
+## demo
+
+
+http://panli.mu.gg/page-demo/20151223/
+
+
+---
+
+
 ## 2015年12月25日09:23:06
 
 > logo 拉伸了
