@@ -11,14 +11,16 @@
 
 ## 签入文件
 
-1. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
-2. oldsite/master/NewsMain.master
+1. Panli.Site.Static/Ued/Pc/index/images/layer20160112.png
+2. Panli.Site.Static/FrontEnd/js20090801/NewIndex/topBanner.js
 
 
 ## view
 
 
+![](./images/layer20160112.png)
 
+---
 
 ## 2016年1月8日 11:53:25
 
@@ -29,7 +31,7 @@
 1. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
 2. oldsite/master/NewsMain.master
 
-![](./images/layer20160112.png)
+
 
 ---
 
