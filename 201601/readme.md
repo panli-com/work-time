@@ -1,5 +1,25 @@
 ## 一个工作提交日志 1月份
 
+## 2016年1月12日 09:31:06
+
+> 年货节最后1天弹窗-
+
+之前的弹框时间调整为：截至1月13日0:00
+
+活动最后1天弹框的时间是：1月13日0:00—1月14日0:00  
+
+
+## 签入文件
+
+1. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
+2. oldsite/master/NewsMain.master
+
+
+## view
+
+
+
+
 ## 2016年1月8日 11:53:25
 
 > 首页小改动修复bug  母板头文件漏上传
@@ -9,7 +29,9 @@
 1. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
 2. oldsite/master/NewsMain.master
 
+![](./images/layer20160112.png)
 
+---
 
 
 ## 2016年1月5日15:54:23
