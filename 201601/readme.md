@@ -1,5 +1,21 @@
 ## 一个工作提交日志 1月份
 
+## 2016年1月18日 13:22:35
+
+>app h5 页面去除广告
+
+## 签入文件
+
+1. Panli.Site.Static/Ued/H5/elementRemove/js/appcreat.min.js
+
+
+## 浏览器插件测试
+
+[浏览器演示地址](https://github.com/browser-extensions/appRemove)
+
+---
+
+
 ## 2016年1月12日 09:31:06
 
 > 年货节最后1天弹窗-
