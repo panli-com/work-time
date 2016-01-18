@@ -11,7 +11,7 @@
 
 ## 浏览器插件测试
 
-[浏览器演示地址](https://github.com/browser-extensions/appRemove)
+[浏览器插件演示](https://github.com/browser-extensions/appRemove)
 
 ---
 
