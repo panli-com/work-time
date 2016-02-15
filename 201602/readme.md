@@ -1,8 +1,22 @@
 ## 一个工作提交日志 2月份
 
-
-
 * 代表当前目录下所有文件
+
+
+--- 
+
+## 2016年2月15日 14:00:32
+
+> 导航新增 值得买
+
+## 签入文件
+
+1. Panli.Site.Static/Ued/Pc/index/build/images/icon.png
+2. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
+3. oldsite/master/NewsMain.master
+
+
+--- 
 
 ## 2016年2月15日13:06:12
 
