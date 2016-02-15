@@ -15,6 +15,9 @@
 2. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
 3. oldsite/master/NewsMain.master
 
+### demo
+
+http://panli.mu.gg/page-demo/20151223/
 
 --- 
 
