@@ -1,4 +1,4 @@
-## 一个工作提交日志 2月份
+# 一个工作提交日志 2月份
 
 * 代表当前目录下所有文件
 
@@ -9,13 +9,13 @@
 
 > 导航新增 值得买  ？ link 等待添加
 
-## 签入文件
+### 签入文件
 
 1. Panli.Site.Static/Ued/Pc/index/build/images/icon.png
 2. Panli.Site.Static/Ued/Pc/index/build/css/main.min.css
 3. oldsite/master/NewsMain.master
 
-### demo
+#### demo
 
 http://panli.mu.gg/page-demo/20151223/
 
@@ -28,7 +28,7 @@ http://panli.mu.gg/page-demo/20151223/
 
 >微信 / H5 / App 活动页
 
-## 签入文件
+### 签入文件
 
 1. Panli2012\PanliVersion4\src\PanliWeixin\Panli.Site.WeiXin\Views\OldWithNew\*
 2. Panli2012\PanliVersion4\src\PanliWeixin\Panli.Site.WeiXin\Controllers\OldWithNewController.cs
