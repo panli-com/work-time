@@ -2,6 +2,25 @@
 
 * 代表当前目录下所有文件
 
+## 2016年2月16日14:41:49
+
+> app webView 删除浮动广告元素
+
+> 增加 lifevc.com
+
+
+### 签入文件
+
+
+1. Panli.Site.Static/Ued/H5/elementRemove/js/appcreat.min.js
+
+
+###　more
+
+
+[详细解决](https://github.com/browser-extensions/appRemove)
+
+
 
 --- 
 
