@@ -2,6 +2,27 @@
 
 * 代表当前目录下所有文件
 
+
+## 2016年2月17日16:54:28
+
+>Panli故事首页的“Panli新闻 images url
+
+### 签入文件
+
+- oldsite/Information/Default.aspx
+
+
+
+>在Panli故事首页的“Panli新闻”处 http://www.panli.com/Information/ 
+
+>请安排将附件的图片放在下图红框的位置，原红框图片（要带链接）取代到蓝框位置：
+
+>附件图片链接是：http://www.panli.com/Information/Detail.aspx?id=25 
+
+
+---
+
+
 ## 2016年2月16日14:41:49
 
 > app webView 删除浮动广告元素
