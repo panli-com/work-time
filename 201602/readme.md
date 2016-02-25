@@ -70,6 +70,8 @@ http://panli.mu.gg/page-demo/20151223/
 
 >微信 / H5 / App 活动页
 
+浏览 ：http://h5.panli.com/OldWithNew/Coupon_Send
+
 ### 签入文件
 
 1. Panli2012\PanliVersion4\src\PanliWeixin\Panli.Site.WeiXin\Views\OldWithNew\*
