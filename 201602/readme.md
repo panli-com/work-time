@@ -5,6 +5,25 @@
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
 
+## 2016年2月29日18:04:33
+
+
+>3.8女人节弹窗
+
+### 签入文件 静态文件
+
+- FrontEnd/js20090801/NewIndex/topBanner.js
+
+- Ued/pc/index/images/layer20160229.png
+
+
+
+--- 
+
+
+
+
+
 ## 2016年2月17日16:54:28
 
 >Panli故事首页的“Panli新闻 images url
