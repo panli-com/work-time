@@ -17,6 +17,9 @@
 - Ued/pc/index/images/layer20160229.png
 
 
+### git commit 对应
+
+http://github.panli.com/eason/sf.panli.com/commit/2a2319895c4f33f9000cac2714e1506b2830cbaa
 
 --- 
 
