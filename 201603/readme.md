@@ -4,6 +4,18 @@
 
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
+## 2016年3月4日 15:30:01
+
+> 邀请好友 PC 页面注释去掉 绑定微信弹框
+
+### 签入文件
+
+- oldsite/mypanli/UserInfo/InviteFriends.aspx
+
+
+---
+
+
 ## 2016年3月2日 11:57:26
 
 > 邀请好友 PC 页面 images  Update
