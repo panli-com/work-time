@@ -5,6 +5,19 @@
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
 
+## 2016年3月14日09:57:41
+
+> 支付宝3月31日下线  || 头部导航值得买排序第一位
+
+
+### 签入文件
+
+- /oldsite/mypanli/Account/pay.aspx
+- /oldsite/master/NewsMain.master
+
+---
+
+
 ## 2016年3月4日 17:31:47
 
 > 微信番丽默认头像为新公仔
