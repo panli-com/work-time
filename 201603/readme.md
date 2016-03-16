@@ -4,6 +4,19 @@
 
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
+## 2016年3月16日16:46:54
+
+> 首页弹框构建初始化数据
+
+### 签入文件
+
+- /oldsite/Default.aspx
+- /oldsite/master/NewsMain.master
+- sf.panli.com/Ued/pc/index/js/layerBanner.js
+
+---
+
+
 
 ## 2016年3月14日09:57:41
 
