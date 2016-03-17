@@ -4,6 +4,18 @@
 
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
+
+## 2016年3月17日09:01:51
+
+> 手淘台湾页面
+
+### 签入文件
+
+- sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
+
+
+--- 
+
 ## 2016年3月16日16:46:54
 
 > 首页弹框构建初始化数据
