@@ -5,6 +5,21 @@
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
 
+## 2016年3月18日12:49:09
+
+> PC mobile 红包换成潘币
+
+### 签入文件
+
+- /oldsite/Mobile/Index.aspx
+- sf.panli.com/Ued/pc/Mobile/images/panbi.png
+- sf.panli.com/Ued/pc/Mobile/images/panbi-all.png
+- sf.panli.com/FrontEnd/css20090801/Mobile/Mobile.css
+
+
+--- 
+
+
 ## 2016年3月17日09:01:51
 
 > 手淘台湾页面
