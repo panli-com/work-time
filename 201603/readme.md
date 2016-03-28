@@ -5,6 +5,20 @@
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
 
+## 2016年3月28日09:58:38
+
+> 抽奖活动 h5 页面滚动
+
+### 签入文件
+
+
+- sf.panli.com/Ued/Special/20160307H5/build/css/main.min.css
+- sf.panli.com/Ued/Special/20160307H5/build/js/main.min.js
+- /oldsite/Special/annual11th__H5.aspx
+
+---
+
+
 ## 2016年3月18日12:49:09
 
 > PC mobile 红包换成潘币
