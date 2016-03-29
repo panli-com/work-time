@@ -18,6 +18,8 @@
 - sf.panli.com/Ued/Special/20151111/css/id.css
 - sf.panli.com/Ued/Special/20151111/css/cssImg/*
 
+
+> 懒覆盖 sf.panli.com/Ued/Special/20151111/*
 ---
 
 
