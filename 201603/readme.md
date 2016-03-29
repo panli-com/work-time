@@ -5,6 +5,22 @@
 >新技能 get -- 静态文件 git push 开始啦 :cat:
 
 
+## 2016年3月29日15:19:57
+    
+> 全场11元
+
+### 签入文件
+
+- oldsite/Special/panlisale.aspx
+- oldsite/Special/panlisale_H5.aspx
+- sf.panli.com/Ued/Special/20151111/h5/build/css/main.css
+- sf.panli.com/Ued/Special/20151111/h5/build/images/list/banner.png
+- sf.panli.com/Ued/Special/20151111/css/id.css
+- sf.panli.com/Ued/Special/20151111/css/cssImg/*
+
+---
+
+
 ## 2016年3月28日09:58:38
 
 > 抽奖活动 h5 页面滚动
