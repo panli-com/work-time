@@ -11,12 +11,12 @@
 
 ### 签入文件
 
-- oldsite/Special/panlisale.aspx
-- oldsite/Special/panlisale_H5.aspx
-- sf.panli.com/Ued/Special/20151111/h5/build/css/main.css
-- sf.panli.com/Ued/Special/20151111/h5/build/images/list/banner.png
-- sf.panli.com/Ued/Special/20151111/css/id.css
-- sf.panli.com/Ued/Special/20151111/css/cssImg/*
+1. oldsite/Special/panlisale.aspx
+1. oldsite/Special/panlisale_H5.aspx
+1. sf.panli.com/Ued/Special/20151111/h5/build/css/main.css
+1. sf.panli.com/Ued/Special/20151111/h5/build/images/list/banner.png
+1. sf.panli.com/Ued/Special/20151111/css/id.css
+1. sf.panli.com/Ued/Special/20151111/css/cssImg/*
 
 
 > 懒覆盖 sf.panli.com/Ued/Special/20151111/*
