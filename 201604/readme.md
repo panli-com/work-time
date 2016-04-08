@@ -13,7 +13,9 @@
 ### 签入文件
 
 1. oldsite/master/NewMain.master
-1. oldsite/master/NewsMain.master
+2. oldsite/master/NewsMain.master
+3. oldsite/Special/TopicColumn.aspx
+4. tuan.panli.com/Views/Shared/_Head.cshtml
 
 ---
 
