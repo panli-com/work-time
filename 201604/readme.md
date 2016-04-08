@@ -4,6 +4,19 @@
 
 > 静态文件 git push 开始啦 :cat:
 
+
+## 2016年04月08日14:47:42
+
+> 新导航 和 老导航 修改 参数
+
+
+### 签入文件
+
+1. oldsite/master/NewMain.master
+1. oldsite/master/NewsMain.master
+
+---
+
 ## 2016日04日08日10:24:01
 
 >http://www.panli.com/Special/panlisale.aspx
