@@ -14,8 +14,8 @@
 2. oldsite/master/NewsMain.master
 3. oldsite/vip/Default.aspx
 4. sf.panli.com/FrontEnd/css20090801/NewTopFoot.css
-6. FrontEnd/css20090801/vip/vipbuy.css
-7. Ued/pc/index/build/**
+6. sf.panli.com/FrontEnd/css20090801/vip/vipbuy.css
+7. sf.panli.com/Ued/pc/index/build/**
 
 ---
 
