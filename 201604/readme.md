@@ -4,6 +4,21 @@
 
 > 静态文件 git push 开始啦 :cat:
 
+## 2016年04月11日17:32:35
+
+> 提交转运入口 and Vip 购
+
+### 签入文件
+
+1. oldsite/master/NewMain.master
+2. oldsite/master/NewsMain.master
+3. oldsite/vip/Default.aspx
+4. sf.panli.com/FrontEnd/css20090801/NewTopFoot.css
+6. FrontEnd/css20090801/vip/vipbuy.css
+7. Ued/pc/index/build/**
+
+---
+
 
 ## 2016年04月08日14:47:42
 
