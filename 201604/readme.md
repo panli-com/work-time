@@ -13,6 +13,13 @@
 1. oldsite/master/NewMain.master
 2. oldsite/master/NewsMain.master
 3. oldsite/vip/Default.aspx
+4. oldsite/mypanli/MessageBox/ShowMessage.aspx
+4. oldsite/mypanli/MessageBox/SystemMessage.aspx
+4. oldsite/mypanli/MessageBox/UserMessage.aspx
+4. tuan.panli.com/Views/Shared/_Head.cshtml
+4. tuan.panli.com/Views/Shared/_Layout.cshtml
+4. tuan.panli.com/Views/Shared/_UserCenterHead.cshtml
+4. tuan.panli.com/Views/Shared/_UserCenterLayout.cshtml
 4. sf.panli.com/FrontEnd/css20090801/NewTopFoot.css
 6. sf.panli.com/FrontEnd/css20090801/vip/vipbuy.css
 7. sf.panli.com/Ued/pc/index/build/**
