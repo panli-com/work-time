@@ -16,6 +16,7 @@
 2. oldsite/master/NewsMain.master
 2. oldsite/Piece/Default.aspx
 3. oldsite/vip/Default.aspx
+3. oldsite/mypanli/Default.aspx
 4. oldsite/mypanli/MessageBox/ShowMessage.aspx
 4. oldsite/mypanli/MessageBox/SystemMessage.aspx
 4. oldsite/mypanli/MessageBox/UserMessage.aspx
