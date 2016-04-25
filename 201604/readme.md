@@ -4,6 +4,37 @@
 
 > 静态文件 git push 开始啦 :cat:
 
+
+## 2016年04月25日12:51:05
+
+> 购物改版多次版本  提交转运入口 and Vip 购  拼单购
+
+### 签入文件
+
+
+1. oldsite/master/NewMain.master
+2. oldsite/master/NewsMain.master
+2. oldsite/Piece/Default.aspx
+3. oldsite/vip/Default.aspx
+4. oldsite/mypanli/MessageBox/ShowMessage.aspx
+4. oldsite/mypanli/MessageBox/SystemMessage.aspx
+4. oldsite/mypanli/MessageBox/UserMessage.aspx
+4. tuan.panli.com/Views/Shared/_Head.cshtml
+4. tuan.panli.com/Views/Shared/_Layout.cshtml
+4. tuan.panli.com/Views/Shared/_UserCenterHead.cshtml
+4. tuan.panli.com/Views/Shared/_UserCenterLayout.cshtml
+
+
+>静态
+
+4. sf.panli.com/FrontEnd/css20090801/NewTopFoot.css
+6. sf.panli.com/FrontEnd/css20090801/vip/vipbuy.css
+7. sf.panli.com/Ued/pc/index/build/**
+7. sf.panli.com/Ued/pc/piece/**
+
+---
+
+
 ## 2016年04月11日17:32:35
 
 > 提交转运入口 and Vip 购
