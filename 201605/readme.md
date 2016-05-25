@@ -2,6 +2,17 @@
 
 * 代表当前目录下所有文件
 
+## 2016年05月25日17:07:50
+
+> 安卓下载链接地址修改
+
+### 签入文件
+
+1. passport.panli.com/h5/NewRegister/RegisterSucceed.aspx
+
+
+
+
 
 ## 2016年05月05日17:35:59
 
