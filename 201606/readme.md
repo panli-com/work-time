@@ -3,6 +3,17 @@
 * 代表当前目录下所有文件
 
 
+## 2016年06月17日10:06:38
+
+### [对应工单](http://github.panli.com/SoftwareTest/Panli/issues/151)
+
+### 签入文件
+
+1. sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
+
+
+--- 
+
 ## 2016年06月08日14:10:42
 
 ### [对应工单](http://github.panli.com/SoftwareTest/Panli/issues/140)
