@@ -20,7 +20,7 @@
 
 ## 2016年06月08日14:10:42
 
-### [对应工单](http://github.panli.com/SoftwareTest/Panli/issues/140)
+ [对应工单](http://github.panli.com/SoftwareTest/Panli/issues/140)
 
 1. 手机端广告引导页的注册完成页面，样式有问题
 
