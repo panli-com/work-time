@@ -5,7 +5,9 @@
 
 ## 2016年06月17日10:06:38
 
-### [对应工单](http://github.panli.com/SoftwareTest/Panli/issues/151)
+屏蔽淘宝海外站的下载、按钮等，内详
+ 
+[对应工单](http://github.panli.com/SoftwareTest/Panli/issues/151)
 
 ### 签入文件
 
