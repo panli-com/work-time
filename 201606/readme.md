@@ -7,7 +7,7 @@
 
 [h5-分享静态页面](http://github.panli.com/abby/PanliByAbby)
 
-1. http://www.panli.com/Special/m/20160614/index.html
+1. www.panli.com/Special/m/20160614/index.html
 
 
 --- 
