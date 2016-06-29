@@ -2,12 +2,26 @@
 
 * 代表当前目录下所有文件
 
+## 2016年06月29日11:32:47
+
+[App 下载页, 邀请好友中的图片更换](http://github.panli.com/SoftwareTest/Panli/issues/147)
+
+### 签入文件
+
+1. sf.panli.com/Ued/pc/Mobile/images/mobile.png （add）
+2. www.panli.com/Mobile/Index.aspx  (update)
+
+
+---
+
 
 ## 2016年06月27日13:26:56
 
-[h5-分享静态页面](http://github.panli.com/abby/PanliByAbby)
+[h5-分享静态页面-需求来源](http://github.panli.com/abby/PanliByAbby)
 
-1. www.panli.com/Special/m/20160614/index.html
+### 签入文件
+
+1. www.panli.com/Special/m/20160614/index.html 
 
 
 --- 
